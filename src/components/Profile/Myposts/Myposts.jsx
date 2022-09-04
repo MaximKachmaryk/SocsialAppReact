@@ -5,7 +5,7 @@ const MyPosts = () => {
     return <div className={classes.posts}>
        
         
-        <Post massage ='how are you'/> 
+        <Post massage ='how are you' likesCount='0'/> 
         <Post massage ="i am ok"/>
        
   </div>
