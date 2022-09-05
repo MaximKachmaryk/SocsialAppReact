@@ -14,6 +14,7 @@ const Dialogs = (props) => {
     { id: 5, name: "Stepan" },
     { id: 6, name: "Volodymyr" },
   ];
+  
   let messeges = [
     { id: 1, message: "Hi" },
     { id: 2, message: "How is you IT" },
@@ -31,4 +32,5 @@ const Dialogs = (props) => {
     </div>
   );
 };
+
 export default Dialogs;
